@@ -1,0 +1,439 @@
+[INFO] 16:07:56:427 Master/(4038:4038): Iniciando MASTER
+[INFO] 16:07:56:692 Master/(4038:4038): Conectado con YAMA
+[INFO] 16:07:56:701 Master/(4038:4038): Creando solicitud para envir a YAMA
+[INFO] 16:07:56:702 Master/(4038:4038): Datos de la Solicitud: Transformador: files/transformador.py - Reductor: files/reductor.py - Archivo: /nombres.csv - Destino: holis
+[INFO] 16:07:56:738 Master/(4038:4038): Inicio del Pedido de Tranformación del archivo /nombres.csv.
+[INFO] 16:07:56:755 Master/(4038:4038): Pedido de 0 bloques a Tranformar
+[INFO] 16:07:56:758 Master/(4038:4038): El archivo /nombres.csv no existe en YamaFS
+[INFO] 16:11:22:734 Master/(4072:4072): Iniciando MASTER
+[INFO] 16:11:22:800 Master/(4072:4072): Conectado con YAMA
+[INFO] 16:11:22:800 Master/(4072:4072): Creando solicitud para envir a YAMA
+[INFO] 16:11:22:800 Master/(4072:4072): Datos de la Solicitud: Transformador: files/transformador.py - Reductor: files/reductor.py - Archivo: /nombres.csv - Destino: holis
+[INFO] 16:11:22:801 Master/(4072:4072): Inicio del Pedido de Tranformación del archivo /nombres.csv.
+[INFO] 16:11:22:854 Master/(4072:4072): Pedido de 0 bloques a Tranformar
+[INFO] 16:11:22:854 Master/(4072:4072): El archivo /nombres.csv no existe en YamaFS
+[INFO] 16:19:03:514 Master/(4116:4116): Iniciando MASTER
+[INFO] 16:19:03:866 Master/(4116:4116): Conectado con YAMA
+[INFO] 16:19:03:872 Master/(4116:4116): Creando solicitud para envir a YAMA
+[INFO] 16:19:03:874 Master/(4116:4116): Datos de la Solicitud: Transformador: files/transformador.py - Reductor: files/reductor.py - Archivo: /nombres.csv - Destino: holis
+[INFO] 16:19:03:884 Master/(4116:4116): Inicio del Pedido de Tranformación del archivo /nombres.csv.
+[INFO] 16:19:07:64 Master/(4116:4116): Pedido de 34 bloques a Tranformar
+[INFO] 16:19:07:177 Master/(4116:4116): Empezando etapa de Transformación
+[INFO] 16:19:07:192 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO1 - Bloque:0 - Archivo_tmp:/tmp/job1-NODO1-temp0
+[INFO] 16:19:07:368 Master/(4116:4119): Iniciando conexion con Worker
+[INFO] 16:19:07:439 Master/(4116:4119): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:07:442 Master/(4116:4119): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:07:486 Master/(4116:4119): Archivo enviado con éxito al Worker
+[INFO] 16:19:07:494 Master/(4116:4119): Archivo Transformador enviado al Worker
+[INFO] 16:19:07:837 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO3 - Bloque:1 - Archivo_tmp:/tmp/job1-NODO3-temp1
+[INFO] 16:19:07:927 Master/(4116:4120): Iniciando conexion con Worker
+[INFO] 16:19:07:938 Master/(4116:4120): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:07:939 Master/(4116:4120): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:07:952 Master/(4116:4120): Archivo enviado con éxito al Worker
+[INFO] 16:19:07:958 Master/(4116:4120): Archivo Transformador enviado al Worker
+[INFO] 16:19:08:718 Master/(4116:4120): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:08:809 Master/(4116:4119): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:08:838 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO1 - Bloque:2 - Archivo_tmp:/tmp/job1-NODO1-temp2
+[INFO] 16:19:08:903 Master/(4116:4127): Iniciando conexion con Worker
+[INFO] 16:19:09:21 Master/(4116:4127): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:09:22 Master/(4116:4127): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:09:26 Master/(4116:4127): Archivo enviado con éxito al Worker
+[INFO] 16:19:09:33 Master/(4116:4127): Archivo Transformador enviado al Worker
+[INFO] 16:19:09:844 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO3 - Bloque:3 - Archivo_tmp:/tmp/job1-NODO3-temp3
+[INFO] 16:19:09:956 Master/(4116:4128): Iniciando conexion con Worker
+[INFO] 16:19:09:960 Master/(4116:4128): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:09:960 Master/(4116:4128): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:09:968 Master/(4116:4128): Archivo enviado con éxito al Worker
+[INFO] 16:19:09:976 Master/(4116:4128): Archivo Transformador enviado al Worker
+[INFO] 16:19:10:397 Master/(4116:4127): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:10:813 Master/(4116:4128): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:10:851 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO1 - Bloque:4 - Archivo_tmp:/tmp/job1-NODO1-temp4
+[INFO] 16:19:11:36 Master/(4116:4136): Iniciando conexion con Worker
+[INFO] 16:19:11:98 Master/(4116:4136): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:11:99 Master/(4116:4136): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:11:103 Master/(4116:4136): Archivo enviado con éxito al Worker
+[INFO] 16:19:11:110 Master/(4116:4136): Archivo Transformador enviado al Worker
+[INFO] 16:19:11:861 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO3 - Bloque:5 - Archivo_tmp:/tmp/job1-NODO3-temp5
+[INFO] 16:19:11:963 Master/(4116:4137): Iniciando conexion con Worker
+[INFO] 16:19:11:974 Master/(4116:4137): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:11:975 Master/(4116:4137): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:11:979 Master/(4116:4137): Archivo enviado con éxito al Worker
+[INFO] 16:19:11:991 Master/(4116:4137): Archivo Transformador enviado al Worker
+[INFO] 16:19:12:321 Master/(4116:4136): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:12:682 Master/(4116:4137): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:12:866 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO1 - Bloque:6 - Archivo_tmp:/tmp/job1-NODO1-temp6
+[INFO] 16:19:12:972 Master/(4116:4144): Iniciando conexion con Worker
+[INFO] 16:19:13:44 Master/(4116:4144): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:13:45 Master/(4116:4144): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:13:51 Master/(4116:4144): Archivo enviado con éxito al Worker
+[INFO] 16:19:13:64 Master/(4116:4144): Archivo Transformador enviado al Worker
+[INFO] 16:19:13:870 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO3 - Bloque:7 - Archivo_tmp:/tmp/job1-NODO3-temp7
+[INFO] 16:19:13:975 Master/(4116:4145): Iniciando conexion con Worker
+[INFO] 16:19:13:986 Master/(4116:4145): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:13:987 Master/(4116:4145): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:13:0 Master/(4116:4145): Archivo enviado con éxito al Worker
+[INFO] 16:19:13:1 Master/(4116:4145): Archivo Transformador enviado al Worker
+[INFO] 16:19:14:309 Master/(4116:4144): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:14:865 Master/(4116:4145): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:14:885 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO1 - Bloque:8 - Archivo_tmp:/tmp/job1-NODO1-temp8
+[INFO] 16:19:14:2 Master/(4116:4152): Iniciando conexion con Worker
+[INFO] 16:19:15:63 Master/(4116:4152): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:15:64 Master/(4116:4152): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:15:68 Master/(4116:4152): Archivo enviado con éxito al Worker
+[INFO] 16:19:15:70 Master/(4116:4152): Archivo Transformador enviado al Worker
+[INFO] 16:19:15:890 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO3 - Bloque:9 - Archivo_tmp:/tmp/job1-NODO3-temp9
+[INFO] 16:19:15:993 Master/(4116:4153): Iniciando conexion con Worker
+[INFO] 16:19:16:8 Master/(4116:4153): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:16:8 Master/(4116:4153): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:16:18 Master/(4116:4153): Archivo enviado con éxito al Worker
+[INFO] 16:19:16:21 Master/(4116:4153): Archivo Transformador enviado al Worker
+[INFO] 16:19:16:310 Master/(4116:4152): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:16:871 Master/(4116:4153): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:16:900 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO1 - Bloque:10 - Archivo_tmp:/tmp/job1-NODO1-temp10
+[INFO] 16:19:16:986 Master/(4116:4162): Iniciando conexion con Worker
+[INFO] 16:19:17:54 Master/(4116:4162): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:17:54 Master/(4116:4162): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:17:59 Master/(4116:4162): Archivo enviado con éxito al Worker
+[INFO] 16:19:17:62 Master/(4116:4162): Archivo Transformador enviado al Worker
+[INFO] 16:19:17:898 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO3 - Bloque:11 - Archivo_tmp:/tmp/job1-NODO3-temp11
+[INFO] 16:19:17:2 Master/(4116:4163): Iniciando conexion con Worker
+[INFO] 16:19:18:11 Master/(4116:4163): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:18:12 Master/(4116:4163): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:18:22 Master/(4116:4163): Archivo enviado con éxito al Worker
+[INFO] 16:19:18:25 Master/(4116:4163): Archivo Transformador enviado al Worker
+[INFO] 16:19:18:505 Master/(4116:4162): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:18:900 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO1 - Bloque:12 - Archivo_tmp:/tmp/job1-NODO1-temp12
+[INFO] 16:19:19:20 Master/(4116:4170): Iniciando conexion con Worker
+[INFO] 16:19:19:85 Master/(4116:4170): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:19:86 Master/(4116:4170): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:19:90 Master/(4116:4170): Archivo enviado con éxito al Worker
+[INFO] 16:19:19:96 Master/(4116:4170): Archivo Transformador enviado al Worker
+[INFO] 16:19:19:455 Master/(4116:4163): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:19:904 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO3 - Bloque:13 - Archivo_tmp:/tmp/job1-NODO3-temp13
+[INFO] 16:19:19:991 Master/(4116:4171): Iniciando conexion con Worker
+[INFO] 16:19:20:4 Master/(4116:4171): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:20:5 Master/(4116:4171): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:20:15 Master/(4116:4171): Archivo enviado con éxito al Worker
+[INFO] 16:19:20:22 Master/(4116:4171): Archivo Transformador enviado al Worker
+[INFO] 16:19:20:405 Master/(4116:4170): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:20:905 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO1 - Bloque:14 - Archivo_tmp:/tmp/job1-NODO1-temp14
+[INFO] 16:19:21:74 Master/(4116:4178): Iniciando conexion con Worker
+[INFO] 16:19:21:141 Master/(4116:4178): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:21:142 Master/(4116:4178): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:21:144 Master/(4116:4178): Archivo enviado con éxito al Worker
+[INFO] 16:19:21:151 Master/(4116:4178): Archivo Transformador enviado al Worker
+[INFO] 16:19:21:683 Master/(4116:4171): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:21:916 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO3 - Bloque:15 - Archivo_tmp:/tmp/job1-NODO3-temp15
+[INFO] 16:19:22:21 Master/(4116:4179): Iniciando conexion con Worker
+[INFO] 16:19:22:34 Master/(4116:4179): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:22:35 Master/(4116:4179): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:22:47 Master/(4116:4179): Archivo enviado con éxito al Worker
+[INFO] 16:19:22:52 Master/(4116:4179): Archivo Transformador enviado al Worker
+[INFO] 16:19:22:627 Master/(4116:4178): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:22:920 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO1 - Bloque:16 - Archivo_tmp:/tmp/job1-NODO1-temp16
+[INFO] 16:19:23:44 Master/(4116:4186): Iniciando conexion con Worker
+[INFO] 16:19:23:108 Master/(4116:4186): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:23:109 Master/(4116:4186): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:23:114 Master/(4116:4186): Archivo enviado con éxito al Worker
+[INFO] 16:19:23:124 Master/(4116:4186): Archivo Transformador enviado al Worker
+[INFO] 16:19:23:261 Master/(4116:4179): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:23:929 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO3 - Bloque:17 - Archivo_tmp:/tmp/job1-NODO3-temp17
+[INFO] 16:19:23:0 Master/(4116:4187): Iniciando conexion con Worker
+[INFO] 16:19:24:13 Master/(4116:4187): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:24:14 Master/(4116:4187): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:24:23 Master/(4116:4187): Archivo enviado con éxito al Worker
+[INFO] 16:19:24:24 Master/(4116:4187): Archivo Transformador enviado al Worker
+[INFO] 16:19:24:433 Master/(4116:4186): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:24:944 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO1 - Bloque:18 - Archivo_tmp:/tmp/job1-NODO1-temp18
+[INFO] 16:19:25:183 Master/(4116:4194): Iniciando conexion con Worker
+[INFO] 16:19:25:259 Master/(4116:4194): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:25:259 Master/(4116:4194): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:25:263 Master/(4116:4194): Archivo enviado con éxito al Worker
+[INFO] 16:19:25:285 Master/(4116:4194): Archivo Transformador enviado al Worker
+[INFO] 16:19:25:949 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO3 - Bloque:19 - Archivo_tmp:/tmp/job1-NODO3-temp19
+[INFO] 16:19:26:142 Master/(4116:4187): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:26:160 Master/(4116:4195): Iniciando conexion con Worker
+[INFO] 16:19:26:166 Master/(4116:4195): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:26:167 Master/(4116:4195): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:26:177 Master/(4116:4195): Archivo enviado con éxito al Worker
+[INFO] 16:19:26:186 Master/(4116:4195): Archivo Transformador enviado al Worker
+[INFO] 16:19:26:533 Master/(4116:4194): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:26:949 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO1 - Bloque:20 - Archivo_tmp:/tmp/job1-NODO1-temp20
+[INFO] 16:19:27:144 Master/(4116:4204): Iniciando conexion con Worker
+[INFO] 16:19:27:217 Master/(4116:4204): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:27:218 Master/(4116:4204): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:27:221 Master/(4116:4204): Archivo enviado con éxito al Worker
+[INFO] 16:19:27:229 Master/(4116:4204): Archivo Transformador enviado al Worker
+[INFO] 16:19:27:861 Master/(4116:4195): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:27:950 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO3 - Bloque:21 - Archivo_tmp:/tmp/job1-NODO3-temp21
+[INFO] 16:19:28:33 Master/(4116:4206): Iniciando conexion con Worker
+[INFO] 16:19:28:45 Master/(4116:4206): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:28:46 Master/(4116:4206): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:28:64 Master/(4116:4206): Archivo enviado con éxito al Worker
+[INFO] 16:19:28:66 Master/(4116:4206): Archivo Transformador enviado al Worker
+[INFO] 16:19:28:650 Master/(4116:4204): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:28:955 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO1 - Bloque:22 - Archivo_tmp:/tmp/job1-NODO1-temp22
+[INFO] 16:19:29:90 Master/(4116:4206): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:29:107 Master/(4116:4213): Iniciando conexion con Worker
+[INFO] 16:19:29:169 Master/(4116:4213): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:29:169 Master/(4116:4213): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:29:171 Master/(4116:4213): Archivo enviado con éxito al Worker
+[INFO] 16:19:29:175 Master/(4116:4213): Archivo Transformador enviado al Worker
+[INFO] 16:19:29:969 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO3 - Bloque:23 - Archivo_tmp:/tmp/job1-NODO3-temp23
+[INFO] 16:19:30:71 Master/(4116:4214): Iniciando conexion con Worker
+[INFO] 16:19:30:82 Master/(4116:4214): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:30:88 Master/(4116:4214): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:30:100 Master/(4116:4214): Archivo enviado con éxito al Worker
+[INFO] 16:19:30:103 Master/(4116:4214): Archivo Transformador enviado al Worker
+[INFO] 16:19:30:477 Master/(4116:4213): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:30:976 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO1 - Bloque:24 - Archivo_tmp:/tmp/job1-NODO1-temp24
+[INFO] 16:19:31:120 Master/(4116:4221): Iniciando conexion con Worker
+[INFO] 16:19:31:133 Master/(4116:4214): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:31:184 Master/(4116:4221): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:31:185 Master/(4116:4221): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:31:189 Master/(4116:4221): Archivo enviado con éxito al Worker
+[INFO] 16:19:31:190 Master/(4116:4221): Archivo Transformador enviado al Worker
+[INFO] 16:19:31:979 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO3 - Bloque:25 - Archivo_tmp:/tmp/job1-NODO3-temp25
+[INFO] 16:19:32:61 Master/(4116:4222): Iniciando conexion con Worker
+[INFO] 16:19:32:73 Master/(4116:4222): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:32:74 Master/(4116:4222): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:32:90 Master/(4116:4222): Archivo enviado con éxito al Worker
+[INFO] 16:19:32:94 Master/(4116:4222): Archivo Transformador enviado al Worker
+[INFO] 16:19:32:622 Master/(4116:4221): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:33:15 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO1 - Bloque:26 - Archivo_tmp:/tmp/job1-NODO1-temp26
+[INFO] 16:19:33:204 Master/(4116:4229): Iniciando conexion con Worker
+[INFO] 16:19:33:271 Master/(4116:4229): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:33:272 Master/(4116:4229): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:33:274 Master/(4116:4229): Archivo enviado con éxito al Worker
+[INFO] 16:19:33:288 Master/(4116:4229): Archivo Transformador enviado al Worker
+[INFO] 16:19:33:413 Master/(4116:4222): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:34:3 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO3 - Bloque:27 - Archivo_tmp:/tmp/job1-NODO3-temp27
+[INFO] 16:19:34:85 Master/(4116:4230): Iniciando conexion con Worker
+[INFO] 16:19:34:98 Master/(4116:4230): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:34:99 Master/(4116:4230): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:34:114 Master/(4116:4230): Archivo enviado con éxito al Worker
+[INFO] 16:19:34:116 Master/(4116:4230): Archivo Transformador enviado al Worker
+[INFO] 16:19:34:910 Master/(4116:4229): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:34:929 Master/(4116:4230): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:35:55 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO1 - Bloque:28 - Archivo_tmp:/tmp/job1-NODO1-temp28
+[INFO] 16:19:35:142 Master/(4116:4237): Iniciando conexion con Worker
+[INFO] 16:19:35:203 Master/(4116:4237): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:35:204 Master/(4116:4237): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:35:220 Master/(4116:4237): Archivo enviado con éxito al Worker
+[INFO] 16:19:35:222 Master/(4116:4237): Archivo Transformador enviado al Worker
+[INFO] 16:19:36:105 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO3 - Bloque:29 - Archivo_tmp:/tmp/job1-NODO3-temp29
+[INFO] 16:19:36:243 Master/(4116:4238): Iniciando conexion con Worker
+[INFO] 16:19:36:255 Master/(4116:4238): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:36:256 Master/(4116:4238): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:36:264 Master/(4116:4238): Archivo enviado con éxito al Worker
+[INFO] 16:19:36:269 Master/(4116:4238): Archivo Transformador enviado al Worker
+[INFO] 16:19:36:773 Master/(4116:4237): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:37:101 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO1 - Bloque:30 - Archivo_tmp:/tmp/job1-NODO1-temp30
+[INFO] 16:19:37:242 Master/(4116:4247): Iniciando conexion con Worker
+[INFO] 16:19:37:263 Master/(4116:4238): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:37:563 Master/(4116:4247): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:37:564 Master/(4116:4247): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:37:571 Master/(4116:4247): Archivo enviado con éxito al Worker
+[INFO] 16:19:37:581 Master/(4116:4247): Archivo Transformador enviado al Worker
+[INFO] 16:19:38:31 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO3 - Bloque:31 - Archivo_tmp:/tmp/job1-NODO3-temp31
+[INFO] 16:19:38:137 Master/(4116:4248): Iniciando conexion con Worker
+[INFO] 16:19:38:151 Master/(4116:4248): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:38:161 Master/(4116:4248): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:38:171 Master/(4116:4248): Archivo enviado con éxito al Worker
+[INFO] 16:19:38:180 Master/(4116:4248): Archivo Transformador enviado al Worker
+[INFO] 16:19:39:93 Master/(4116:4248): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:39:175 Master/(4116:4247): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:39:429 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO1 - Bloque:32 - Archivo_tmp:/tmp/job1-NODO1-temp32
+[INFO] 16:19:39:521 Master/(4116:4255): Iniciando conexion con Worker
+[INFO] 16:19:39:715 Master/(4116:4255): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:39:716 Master/(4116:4255): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:39:719 Master/(4116:4255): Archivo enviado con éxito al Worker
+[INFO] 16:19:39:722 Master/(4116:4255): Archivo Transformador enviado al Worker
+[INFO] 16:19:40:170 Master/(4116:4116): Detalle de la Solicitud: Nodo:NODO3 - Bloque:33 - Archivo_tmp:/tmp/job1-NODO3-temp33
+[INFO] 16:19:40:273 Master/(4116:4256): Iniciando conexion con Worker
+[INFO] 16:19:40:285 Master/(4116:4256): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:19:40:286 Master/(4116:4256): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:19:40:300 Master/(4116:4256): Archivo enviado con éxito al Worker
+[INFO] 16:19:40:303 Master/(4116:4256): Archivo Transformador enviado al Worker
+[INFO] 16:19:40:622 Master/(4116:4256): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:41:110 Master/(4116:4116): Iniciando espera y liberación de Hilos
+[INFO] 16:19:41:152 Master/(4116:4255): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:19:42:569 Master/(4116:4116): Espera y liberación de Hilos finalizada
+[INFO] 16:19:42:643 Master/(4116:4116): Empezando etapa de Reducción Local
+[INFO] 16:19:42:675 Master/(4116:4116): Detalle de la Reduccion Local: Nodo:NODO3 - Archivo_tmp:/tmp/Master2-job1-RLNODO3
+[INFO] 16:19:42:709 Master/(4116:4116): Detalle de la Reduccion Local: Nodo:NODO1 - Archivo_tmp:/tmp/Master2-job1-RLNODO1
+[INFO] 16:19:42:719 Master/(4116:4263): Iniciando conexion con Worker
+[INFO] 16:19:42:724 Master/(4116:4264): Iniciando conexion con Worker
+[INFO] 16:19:42:750 Master/(4116:4263): Iniciando envio del archivo Reduccion Local al Worker
+[INFO] 16:19:42:751 Master/(4116:4263): Iniciando envio del Archivo files/reductor.py al Worker.
+[INFO] 16:19:42:767 Master/(4116:4263): Archivo enviado con éxito al Worker
+[INFO] 16:19:42:769 Master/(4116:4263): Archivo Reductor enviado al Worker para aplicar a la Etapa Local
+[INFO] 16:19:42:816 Master/(4116:4264): Iniciando envio del archivo Reduccion Local al Worker
+[INFO] 16:19:42:817 Master/(4116:4264): Iniciando envio del Archivo files/reductor.py al Worker.
+[INFO] 16:19:42:822 Master/(4116:4264): Archivo enviado con éxito al Worker
+[INFO] 16:19:42:824 Master/(4116:4264): Archivo Reductor enviado al Worker para aplicar a la Etapa Local
+[INFO] 16:19:49:784 Master/(4116:4263): NODO3  finalizo correctamente la etapa de Reducción Local.
+[INFO] 16:19:55:417 Master/(4116:4264): NODO1  finalizo correctamente la etapa de Reducción Local.
+[INFO] 16:19:55:489 Master/(4116:4116): cantidad de solicitudes de reduccion locales listo para la RG: 2
+[INFO] 16:19:55:576 Master/(4116:4116): Empezando etapa de Reducción Global
+[INFO] 16:19:55:626 Master/(4116:4116): Solicitud de Reducción Global recibida de Yama
+[INFO] 16:19:56:498 Master/(4116:4116): Solicitud de Reducción Global recibida de Yama
+[INFO] 16:19:56:567 Master/(4116:4116): Iniciando envio del Archivo files/reductor.py al Worker.
+[INFO] 16:19:56:572 Master/(4116:4116): Archivo enviado con éxito al Worker
+[INFO] 16:19:56:574 Master/(4116:4116): Archivo Reductor enviado al Worker Encargado para aplicar a la Etapa Global
+[INFO] 16:19:56:576 Master/(4116:4116): Enviando Solicitud de Reducción Global al Worker Encargado
+[INFO] 16:19:56:640 Master/(4116:4116): Finalizo correctamente la etapa de Reduccion Global.
+[INFO] 16:29:20:86 Master/(2273:2273): Iniciando MASTER
+[INFO] 16:29:20:119 Master/(2273:2273): Archivo Transformador no existe
+[INFO] 16:29:30:263 Master/(2274:2274): Iniciando MASTER
+[INFO] 16:29:30:322 Master/(2274:2274): Conectado con YAMA
+[INFO] 16:29:30:322 Master/(2274:2274): Creando solicitud para envir a YAMA
+[INFO] 16:29:30:323 Master/(2274:2274): Datos de la Solicitud: Transformador: files/transformador.py - Reductor: files/reductor.py - Archivo: /nombrews.csv - Destino: asd
+[INFO] 16:29:30:323 Master/(2274:2274): Inicio del Pedido de Tranformación del archivo /nombrews.csv.
+[INFO] 16:29:30:486 Master/(2274:2274): Pedido de 0 bloques a Tranformar
+[INFO] 16:29:30:486 Master/(2274:2274): El archivo /nombrews.csv no existe en YamaFS
+[INFO] 16:29:34:131 Master/(2275:2275): Iniciando MASTER
+[INFO] 16:29:34:199 Master/(2275:2275): Conectado con YAMA
+[INFO] 16:29:34:199 Master/(2275:2275): Creando solicitud para envir a YAMA
+[INFO] 16:29:34:199 Master/(2275:2275): Datos de la Solicitud: Transformador: files/transformador.py - Reductor: files/reductor.py - Archivo: /nombrews.csv - Destino: asd
+[INFO] 16:29:34:199 Master/(2275:2275): Inicio del Pedido de Tranformación del archivo /nombrews.csv.
+[INFO] 16:29:34:356 Master/(2275:2275): Pedido de 0 bloques a Tranformar
+[INFO] 16:29:34:356 Master/(2275:2275): El archivo /nombrews.csv no existe en YamaFS
+[INFO] 16:29:35:315 Master/(2276:2276): Iniciando MASTER
+[INFO] 16:29:35:379 Master/(2276:2276): Conectado con YAMA
+[INFO] 16:29:35:380 Master/(2276:2276): Creando solicitud para envir a YAMA
+[INFO] 16:29:35:380 Master/(2276:2276): Datos de la Solicitud: Transformador: files/transformador.py - Reductor: files/reductor.py - Archivo: /nombrews.csv - Destino: asd
+[INFO] 16:29:35:380 Master/(2276:2276): Inicio del Pedido de Tranformación del archivo /nombrews.csv.
+[INFO] 16:29:35:434 Master/(2276:2276): Pedido de 0 bloques a Tranformar
+[INFO] 16:29:35:434 Master/(2276:2276): El archivo /nombrews.csv no existe en YamaFS
+[INFO] 16:29:36:178 Master/(2277:2277): Iniciando MASTER
+[INFO] 16:29:36:243 Master/(2277:2277): Conectado con YAMA
+[INFO] 16:29:36:243 Master/(2277:2277): Creando solicitud para envir a YAMA
+[INFO] 16:29:36:243 Master/(2277:2277): Datos de la Solicitud: Transformador: files/transformador.py - Reductor: files/reductor.py - Archivo: /nombrews.csv - Destino: asd
+[INFO] 16:29:36:243 Master/(2277:2277): Inicio del Pedido de Tranformación del archivo /nombrews.csv.
+[INFO] 16:29:36:300 Master/(2277:2277): Pedido de 0 bloques a Tranformar
+[INFO] 16:29:36:300 Master/(2277:2277): El archivo /nombrews.csv no existe en YamaFS
+[INFO] 16:29:36:982 Master/(2278:2278): Iniciando MASTER
+[INFO] 16:29:37:53 Master/(2278:2278): Conectado con YAMA
+[INFO] 16:29:37:53 Master/(2278:2278): Creando solicitud para envir a YAMA
+[INFO] 16:29:37:53 Master/(2278:2278): Datos de la Solicitud: Transformador: files/transformador.py - Reductor: files/reductor.py - Archivo: /nombrews.csv - Destino: asd
+[INFO] 16:29:37:54 Master/(2278:2278): Inicio del Pedido de Tranformación del archivo /nombrews.csv.
+[INFO] 16:29:37:106 Master/(2278:2278): Pedido de 0 bloques a Tranformar
+[INFO] 16:29:37:107 Master/(2278:2278): El archivo /nombrews.csv no existe en YamaFS
+[INFO] 16:29:43:488 Master/(2279:2279): Iniciando MASTER
+[INFO] 16:29:43:554 Master/(2279:2279): Conectado con YAMA
+[INFO] 16:29:43:554 Master/(2279:2279): Creando solicitud para envir a YAMA
+[INFO] 16:29:43:554 Master/(2279:2279): Datos de la Solicitud: Transformador: files/transformador.py - Reductor: files/reductor.py - Archivo: /nombres.csv - Destino: asd
+[INFO] 16:29:43:554 Master/(2279:2279): Inicio del Pedido de Tranformación del archivo /nombres.csv.
+[INFO] 16:29:43:609 Master/(2279:2279): Pedido de 0 bloques a Tranformar
+[INFO] 16:29:43:609 Master/(2279:2279): El archivo /nombres.csv no existe en YamaFS
+[INFO] 16:30:28:776 Master/(2286:2286): Iniciando MASTER
+[INFO] 16:30:28:841 Master/(2286:2286): Conectado con YAMA
+[INFO] 16:30:28:841 Master/(2286:2286): Creando solicitud para envir a YAMA
+[INFO] 16:30:28:842 Master/(2286:2286): Datos de la Solicitud: Transformador: files/transformador.py - Reductor: files/reductor.py - Archivo: /nombres.csv - Destino: asd
+[INFO] 16:30:28:842 Master/(2286:2286): Inicio del Pedido de Tranformación del archivo /nombres.csv.
+[INFO] 16:30:28:897 Master/(2286:2286): Pedido de 0 bloques a Tranformar
+[INFO] 16:30:28:897 Master/(2286:2286): El archivo /nombres.csv no existe en YamaFS
+[INFO] 16:30:29:787 Master/(2287:2287): Iniciando MASTER
+[INFO] 16:30:29:853 Master/(2287:2287): Conectado con YAMA
+[INFO] 16:30:29:853 Master/(2287:2287): Creando solicitud para envir a YAMA
+[INFO] 16:30:29:853 Master/(2287:2287): Datos de la Solicitud: Transformador: files/transformador.py - Reductor: files/reductor.py - Archivo: /nombres.csv - Destino: asd
+[INFO] 16:30:29:853 Master/(2287:2287): Inicio del Pedido de Tranformación del archivo /nombres.csv.
+[INFO] 16:30:29:906 Master/(2287:2287): Pedido de 0 bloques a Tranformar
+[INFO] 16:30:29:906 Master/(2287:2287): El archivo /nombres.csv no existe en YamaFS
+[INFO] 16:30:30:679 Master/(2288:2288): Iniciando MASTER
+[INFO] 16:30:30:746 Master/(2288:2288): Conectado con YAMA
+[INFO] 16:30:30:746 Master/(2288:2288): Creando solicitud para envir a YAMA
+[INFO] 16:30:30:746 Master/(2288:2288): Datos de la Solicitud: Transformador: files/transformador.py - Reductor: files/reductor.py - Archivo: /nombres.csv - Destino: asd
+[INFO] 16:30:30:747 Master/(2288:2288): Inicio del Pedido de Tranformación del archivo /nombres.csv.
+[INFO] 16:30:30:800 Master/(2288:2288): Pedido de 0 bloques a Tranformar
+[INFO] 16:30:30:800 Master/(2288:2288): El archivo /nombres.csv no existe en YamaFS
+[INFO] 16:30:37:132 Master/(2289:2289): Iniciando MASTER
+[INFO] 16:30:37:191 Master/(2289:2289): Conectado con YAMA
+[INFO] 16:30:37:191 Master/(2289:2289): Creando solicitud para envir a YAMA
+[INFO] 16:30:37:192 Master/(2289:2289): Datos de la Solicitud: Transformador: files/transformador.py - Reductor: files/reductor.py - Archivo: /nombres.csv - Destino: asd
+[INFO] 16:30:37:192 Master/(2289:2289): Inicio del Pedido de Tranformación del archivo /nombres.csv.
+[INFO] 16:30:51:522 Master/(2289:2289): Pedido de 34 bloques a Tranformar
+[INFO] 16:30:51:614 Master/(2289:2289): Empezando etapa de Transformación
+[INFO] 16:30:51:614 Master/(2289:2289): Detalle de la Solicitud: Nodo:NODO1 - Bloque:0 - Archivo_tmp:/tmp/job1-NODO1-temp0
+[INFO] 16:30:51:615 Master/(2289:2290): Iniciando conexion con Worker
+[INFO] 16:30:51:672 Master/(2289:2290): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:30:51:672 Master/(2289:2290): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:30:51:693 Master/(2289:2290): Archivo enviado con éxito al Worker
+[INFO] 16:30:51:693 Master/(2289:2290): Archivo Transformador enviado al Worker
+[INFO] 16:30:52:563 Master/(2289:2289): Detalle de la Solicitud: Nodo:NODO3 - Bloque:1 - Archivo_tmp:/tmp/job1-NODO3-temp1
+[INFO] 16:30:52:568 Master/(2289:2291): Iniciando conexion con Worker
+[INFO] 16:30:52:584 Master/(2289:2291): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:30:52:584 Master/(2289:2291): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:30:52:589 Master/(2289:2291): Archivo enviado con éxito al Worker
+[INFO] 16:30:52:593 Master/(2289:2291): Archivo Transformador enviado al Worker
+[INFO] 16:30:53:27 Master/(2289:2290): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:30:53:169 Master/(2289:2291): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:30:53:570 Master/(2289:2289): Detalle de la Solicitud: Nodo:NODO1 - Bloque:2 - Archivo_tmp:/tmp/job1-NODO1-temp2
+[INFO] 16:30:53:575 Master/(2289:2298): Iniciando conexion con Worker
+[INFO] 16:30:53:636 Master/(2289:2298): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:30:53:636 Master/(2289:2298): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:30:53:637 Master/(2289:2298): Archivo enviado con éxito al Worker
+[INFO] 16:30:53:637 Master/(2289:2298): Archivo Transformador enviado al Worker
+[INFO] 16:30:53:815 Master/(2289:2298): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:30:54:577 Master/(2289:2289): Detalle de la Solicitud: Nodo:NODO3 - Bloque:3 - Archivo_tmp:/tmp/job1-NODO3-temp3
+[INFO] 16:30:54:577 Master/(2289:2299): Iniciando conexion con Worker
+[INFO] 16:30:54:585 Master/(2289:2299): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:30:54:585 Master/(2289:2299): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:30:54:586 Master/(2289:2299): Archivo enviado con éxito al Worker
+[INFO] 16:30:54:599 Master/(2289:2299): Archivo Transformador enviado al Worker
+[INFO] 16:30:55:187 Master/(2289:2299): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:30:55:577 Master/(2289:2289): Detalle de la Solicitud: Nodo:NODO1 - Bloque:4 - Archivo_tmp:/tmp/job1-NODO1-temp4
+[INFO] 16:30:55:578 Master/(2289:2306): Iniciando conexion con Worker
+[INFO] 16:30:55:634 Master/(2289:2306): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:30:55:634 Master/(2289:2306): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:30:55:635 Master/(2289:2306): Archivo enviado con éxito al Worker
+[INFO] 16:30:55:635 Master/(2289:2306): Archivo Transformador enviado al Worker
+[INFO] 16:30:55:691 Master/(2289:2306): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:30:56:578 Master/(2289:2289): Detalle de la Solicitud: Nodo:NODO3 - Bloque:5 - Archivo_tmp:/tmp/job1-NODO3-temp5
+[INFO] 16:30:56:579 Master/(2289:2307): Iniciando conexion con Worker
+[INFO] 16:30:56:586 Master/(2289:2307): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:30:56:586 Master/(2289:2307): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:30:56:590 Master/(2289:2307): Archivo enviado con éxito al Worker
+[INFO] 16:30:56:594 Master/(2289:2307): Archivo Transformador enviado al Worker
+[INFO] 16:30:57:99 Master/(2289:2307): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:30:57:586 Master/(2289:2289): Detalle de la Solicitud: Nodo:NODO1 - Bloque:6 - Archivo_tmp:/tmp/job1-NODO1-temp6
+[INFO] 16:30:57:588 Master/(2289:2314): Iniciando conexion con Worker
+[INFO] 16:30:57:654 Master/(2289:2314): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:30:57:654 Master/(2289:2314): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:30:57:654 Master/(2289:2314): Archivo enviado con éxito al Worker
+[INFO] 16:30:57:654 Master/(2289:2314): Archivo Transformador enviado al Worker
+[INFO] 16:30:57:710 Master/(2289:2314): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:30:58:590 Master/(2289:2289): Detalle de la Solicitud: Nodo:NODO3 - Bloque:7 - Archivo_tmp:/tmp/job1-NODO3-temp7
+[INFO] 16:30:58:593 Master/(2289:2315): Iniciando conexion con Worker
+[INFO] 16:30:58:601 Master/(2289:2315): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:30:58:602 Master/(2289:2315): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:30:58:602 Master/(2289:2315): Archivo enviado con éxito al Worker
+[INFO] 16:30:58:612 Master/(2289:2315): Archivo Transformador enviado al Worker
+[INFO] 16:30:59:246 Master/(2289:2315): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:30:59:597 Master/(2289:2289): Detalle de la Solicitud: Nodo:NODO1 - Bloque:8 - Archivo_tmp:/tmp/job1-NODO1-temp8
+[INFO] 16:30:59:598 Master/(2289:2322): Iniciando conexion con Worker
+[INFO] 16:30:59:659 Master/(2289:2322): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:30:59:659 Master/(2289:2322): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:30:59:659 Master/(2289:2322): Archivo enviado con éxito al Worker
+[INFO] 16:30:59:659 Master/(2289:2322): Archivo Transformador enviado al Worker
+[INFO] 16:30:59:716 Master/(2289:2322): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:31:00:600 Master/(2289:2289): Detalle de la Solicitud: Nodo:NODO3 - Bloque:9 - Archivo_tmp:/tmp/job1-NODO3-temp9
+[INFO] 16:31:00:601 Master/(2289:2323): Iniciando conexion con Worker
+[INFO] 16:31:00:606 Master/(2289:2323): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:31:00:606 Master/(2289:2323): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:31:00:611 Master/(2289:2323): Archivo enviado con éxito al Worker
+[INFO] 16:31:00:611 Master/(2289:2323): Archivo Transformador enviado al Worker
+[INFO] 16:31:01:105 Master/(2289:2323): NODO3 finalizo correctamente la etapa de Transformación.
+[INFO] 16:31:01:602 Master/(2289:2289): Detalle de la Solicitud: Nodo:NODO1 - Bloque:10 - Archivo_tmp:/tmp/job1-NODO1-temp10
+[INFO] 16:31:01:607 Master/(2289:2330): Iniciando conexion con Worker
+[INFO] 16:31:01:670 Master/(2289:2330): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:31:01:670 Master/(2289:2330): Iniciando envio del Archivo files/transformador.py al Worker.
+[INFO] 16:31:01:670 Master/(2289:2330): Archivo enviado con éxito al Worker
+[INFO] 16:31:01:671 Master/(2289:2330): Archivo Transformador enviado al Worker
+[INFO] 16:31:01:731 Master/(2289:2330): NODO1 finalizo correctamente la etapa de Transformación.
+[INFO] 16:31:02:615 Master/(2289:2289): Detalle de la Solicitud: Nodo:NODO3 - Bloque:11 - Archivo_tmp:/tmp/job1-NODO3-temp11
+[INFO] 16:31:02:616 Master/(2289:2331): Iniciando conexion con Worker
+[INFO] 16:31:02:625 Master/(2289:2331): Iniciando envio del archivo Transformador: files/transformador.py al Worker
+[INFO] 16:31:02:625 Master/(2289:2331): Iniciando envio del Archivo files/transformador.py al Worker.
+[INF

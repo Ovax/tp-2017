@@ -1,0 +1,254 @@
+[INFO] 16:07:37:90 Worker/(4033:4033): Iniciando WORKER
+[INFO] 16:07:37:99 Worker/(4033:4033): Escuchando conexiones
+[INFO] 16:10:57:742 Worker/(4066:4066): Iniciando WORKER
+[INFO] 16:10:57:749 Worker/(4066:4066): Escuchando conexiones
+[INFO] 16:13:22:994 Worker/(4083:4083): Iniciando WORKER
+[INFO] 16:13:22:1 Worker/(4083:4083): Escuchando conexiones
+[INFO] 16:16:26:723 Worker/(4095:4095): Iniciando WORKER
+[INFO] 16:16:26:730 Worker/(4095:4095): Escuchando conexiones
+[INFO] 16:18:46:929 Worker/(4113:4113): Iniciando WORKER
+[INFO] 16:18:46:934 Worker/(4113:4113): Escuchando conexiones
+[INFO] 16:19:07:937 Worker/(4113:4121): Proceso nuevo creado
+[INFO] 16:19:07:949 Worker/(4113:4121): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:19:07:951 Worker/(4113:4121): Archivo recibido de Master
+[INFO] 16:19:07:961 Worker/(4113:4121): Archivo persistido en el Worker
+[INFO] 16:19:07:967 Worker/(4113:4121): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:19:08:726 Worker/(4113:4121): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:19:09:964 Worker/(4113:4129): Proceso nuevo creado
+[INFO] 16:19:09:973 Worker/(4113:4129): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:19:09:974 Worker/(4113:4129): Archivo recibido de Master
+[INFO] 16:19:09:983 Worker/(4113:4129): Archivo persistido en el Worker
+[INFO] 16:19:09:984 Worker/(4113:4129): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:19:10:818 Worker/(4113:4129): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:19:11:973 Worker/(4113:4138): Proceso nuevo creado
+[INFO] 16:19:11:985 Worker/(4113:4138): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:19:11:988 Worker/(4113:4138): Archivo recibido de Master
+[INFO] 16:19:11:994 Worker/(4113:4138): Archivo persistido en el Worker
+[INFO] 16:19:11:2 Worker/(4113:4138): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:19:12:688 Worker/(4113:4138): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:19:13:985 Worker/(4113:4146): Proceso nuevo creado
+[INFO] 16:19:13:993 Worker/(4113:4146): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:19:13:996 Worker/(4113:4146): Archivo recibido de Master
+[INFO] 16:19:14:7 Worker/(4113:4146): Archivo persistido en el Worker
+[INFO] 16:19:14:14 Worker/(4113:4146): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:19:14:871 Worker/(4113:4146): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:19:15:2 Worker/(4113:4154): Proceso nuevo creado
+[INFO] 16:19:16:15 Worker/(4113:4154): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:19:16:15 Worker/(4113:4154): Archivo recibido de Master
+[INFO] 16:19:16:22 Worker/(4113:4154): Archivo persistido en el Worker
+[INFO] 16:19:16:28 Worker/(4113:4154): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:19:16:876 Worker/(4113:4154): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:19:18:10 Worker/(4113:4164): Proceso nuevo creado
+[INFO] 16:19:18:17 Worker/(4113:4164): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:19:18:19 Worker/(4113:4164): Archivo recibido de Master
+[INFO] 16:19:18:28 Worker/(4113:4164): Archivo persistido en el Worker
+[INFO] 16:19:18:30 Worker/(4113:4164): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:19:19:461 Worker/(4113:4164): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:19:19:1 Worker/(4113:4172): Proceso nuevo creado
+[INFO] 16:19:20:12 Worker/(4113:4172): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:19:20:12 Worker/(4113:4172): Archivo recibido de Master
+[INFO] 16:19:20:23 Worker/(4113:4172): Archivo persistido en el Worker
+[INFO] 16:19:20:29 Worker/(4113:4172): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:19:21:689 Worker/(4113:4172): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:19:22:36 Worker/(4113:4180): Proceso nuevo creado
+[INFO] 16:19:22:51 Worker/(4113:4180): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:19:22:56 Worker/(4113:4180): Archivo recibido de Master
+[INFO] 16:19:22:64 Worker/(4113:4180): Archivo persistido en el Worker
+[INFO] 16:19:22:64 Worker/(4113:4180): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:19:23:267 Worker/(4113:4180): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:19:24:11 Worker/(4113:4188): Proceso nuevo creado
+[INFO] 16:19:24:19 Worker/(4113:4188): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:19:24:20 Worker/(4113:4188): Archivo recibido de Master
+[INFO] 16:19:24:26 Worker/(4113:4188): Archivo persistido en el Worker
+[INFO] 16:19:24:30 Worker/(4113:4188): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:19:26:33 Worker/(4113:4188): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:19:26:185 Worker/(4113:4196): Proceso nuevo creado
+[INFO] 16:19:26:189 Worker/(4113:4196): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:19:26:192 Worker/(4113:4196): Archivo recibido de Master
+[INFO] 16:19:26:220 Worker/(4113:4196): Archivo persistido en el Worker
+[INFO] 16:19:26:222 Worker/(4113:4196): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:19:27:866 Worker/(4113:4196): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:19:28:43 Worker/(4113:4207): Proceso nuevo creado
+[INFO] 16:19:28:57 Worker/(4113:4207): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:19:28:57 Worker/(4113:4207): Archivo recibido de Master
+[INFO] 16:19:28:78 Worker/(4113:4207): Archivo persistido en el Worker
+[INFO] 16:19:28:80 Worker/(4113:4207): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:19:29:9 Worker/(4113:4207): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:19:30:80 Worker/(4113:4215): Proceso nuevo creado
+[INFO] 16:19:30:92 Worker/(4113:4215): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:19:30:93 Worker/(4113:4215): Archivo recibido de Master
+[INFO] 16:19:30:102 Worker/(4113:4215): Archivo persistido en el Worker
+[INFO] 16:19:30:115 Worker/(4113:4215): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:19:31:135 Worker/(4113:4215): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:19:32:72 Worker/(4113:4223): Proceso nuevo creado
+[INFO] 16:19:32:86 Worker/(4113:4223): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:19:32:88 Worker/(4113:4223): Archivo recibido de Master
+[INFO] 16:19:32:102 Worker/(4113:4223): Archivo persistido en el Worker
+[INFO] 16:19:32:106 Worker/(4113:4223): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:19:33:419 Worker/(4113:4223): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:19:34:97 Worker/(4113:4231): Proceso nuevo creado
+[INFO] 16:19:34:109 Worker/(4113:4231): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:19:34:112 Worker/(4113:4231): Archivo recibido de Master
+[INFO] 16:19:34:117 Worker/(4113:4231): Archivo persistido en el Worker
+[INFO] 16:19:34:128 Worker/(4113:4231): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:19:34:923 Worker/(4113:4231): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:19:36:252 Worker/(4113:4239): Proceso nuevo creado
+[INFO] 16:19:36:261 Worker/(4113:4239): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:19:36:261 Worker/(4113:4239): Archivo recibido de Master
+[INFO] 16:19:36:265 Worker/(4113:4239): Archivo persistido en el Worker
+[INFO] 16:19:36:278 Worker/(4113:4239): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:19:37:269 Worker/(4113:4239): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:19:38:147 Worker/(4113:4249): Proceso nuevo creado
+[INFO] 16:19:38:165 Worker/(4113:4249): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:19:38:166 Worker/(4113:4249): Archivo recibido de Master
+[INFO] 16:19:38:167 Worker/(4113:4249): Archivo persistido en el Worker
+[INFO] 16:19:38:184 Worker/(4113:4249): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:19:39:99 Worker/(4113:4249): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:19:40:282 Worker/(4113:4257): Proceso nuevo creado
+[INFO] 16:19:40:296 Worker/(4113:4257): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:19:40:296 Worker/(4113:4257): Archivo recibido de Master
+[INFO] 16:19:40:302 Worker/(4113:4257): Archivo persistido en el Worker
+[INFO] 16:19:40:312 Worker/(4113:4257): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:19:40:629 Worker/(4113:4257): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:19:42:747 Worker/(4113:4265): Proceso nuevo creado
+[INFO] 16:19:42:763 Worker/(4113:4265): Inicio de recepción del Archivo Reductor de Master.
+[INFO] 16:19:42:765 Worker/(4113:4265): Archivo recibido de Master
+[INFO] 16:19:42:768 Worker/(4113:4265): Archivo persistido en el Worker
+[INFO] 16:19:42:783 Worker/(4113:4265): Inicio de recepción de la Reduccion Local de Master.
+[INFO] 16:19:49:772 Worker/(4113:4265): Envio de resultado de la Reducción Local a Master.
+Reducción Local finalizada de manera correcta
+[INFO] 16:28:35:483 Worker/(2102:2102): Iniciando WORKER
+[INFO] 16:28:35:486 Worker/(2102:2102): Escuchando conexiones
+[INFO] 16:30:19:219 Worker/(2285:2285): Iniciando WORKER
+[INFO] 16:30:19:237 Worker/(2285:2285): Escuchando conexiones
+[INFO] 16:30:52:577 Worker/(2285:2292): Proceso nuevo creado
+[INFO] 16:30:52:590 Worker/(2285:2292): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:30:52:592 Worker/(2285:2292): Archivo recibido de Master
+[INFO] 16:30:52:619 Worker/(2285:2292): Archivo persistido en el Worker
+[INFO] 16:30:52:620 Worker/(2285:2292): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:30:53:166 Worker/(2285:2292): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:30:54:583 Worker/(2285:2300): Proceso nuevo creado
+[INFO] 16:30:54:599 Worker/(2285:2300): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:30:54:600 Worker/(2285:2300): Archivo recibido de Master
+[INFO] 16:30:54:606 Worker/(2285:2300): Archivo persistido en el Worker
+[INFO] 16:30:54:614 Worker/(2285:2300): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:30:55:189 Worker/(2285:2300): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:30:56:585 Worker/(2285:2308): Proceso nuevo creado
+[INFO] 16:30:56:600 Worker/(2285:2308): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:30:56:607 Worker/(2285:2308): Archivo recibido de Master
+[INFO] 16:30:56:609 Worker/(2285:2308): Archivo persistido en el Worker
+[INFO] 16:30:56:609 Worker/(2285:2308): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:30:57:101 Worker/(2285:2308): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:30:58:600 Worker/(2285:2316): Proceso nuevo creado
+[INFO] 16:30:58:612 Worker/(2285:2316): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:30:58:618 Worker/(2285:2316): Archivo recibido de Master
+[INFO] 16:30:58:628 Worker/(2285:2316): Archivo persistido en el Worker
+[INFO] 16:30:58:631 Worker/(2285:2316): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:30:59:248 Worker/(2285:2316): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:31:00:615 Worker/(2285:2324): Proceso nuevo creado
+[INFO] 16:31:00:622 Worker/(2285:2324): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:31:00:623 Worker/(2285:2324): Archivo recibido de Master
+[INFO] 16:31:00:633 Worker/(2285:2324): Archivo persistido en el Worker
+[INFO] 16:31:00:634 Worker/(2285:2324): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:31:01:107 Worker/(2285:2324): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:31:02:624 Worker/(2285:2332): Proceso nuevo creado
+[INFO] 16:31:02:636 Worker/(2285:2332): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:31:02:642 Worker/(2285:2332): Archivo recibido de Master
+[INFO] 16:31:02:649 Worker/(2285:2332): Archivo persistido en el Worker
+[INFO] 16:31:02:649 Worker/(2285:2332): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:31:03:197 Worker/(2285:2332): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:31:04:635 Worker/(2285:2340): Proceso nuevo creado
+[INFO] 16:31:04:646 Worker/(2285:2340): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:31:04:646 Worker/(2285:2340): Archivo recibido de Master
+[INFO] 16:31:04:648 Worker/(2285:2340): Archivo persistido en el Worker
+[INFO] 16:31:04:657 Worker/(2285:2340): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:31:05:162 Worker/(2285:2340): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:31:06:655 Worker/(2285:2348): Proceso nuevo creado
+[INFO] 16:31:06:665 Worker/(2285:2348): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:31:06:666 Worker/(2285:2348): Archivo recibido de Master
+[INFO] 16:31:06:690 Worker/(2285:2348): Archivo persistido en el Worker
+[INFO] 16:31:06:691 Worker/(2285:2348): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:31:07:196 Worker/(2285:2348): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:31:08:667 Worker/(2285:2356): Proceso nuevo creado
+[INFO] 16:31:08:670 Worker/(2285:2356): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:31:08:671 Worker/(2285:2356): Archivo recibido de Master
+[INFO] 16:31:08:681 Worker/(2285:2356): Archivo persistido en el Worker
+[INFO] 16:31:08:681 Worker/(2285:2356): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:31:09:213 Worker/(2285:2356): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:31:10:706 Worker/(2285:2364): Proceso nuevo creado
+[INFO] 16:31:10:721 Worker/(2285:2364): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:31:10:726 Worker/(2285:2364): Archivo recibido de Master
+[INFO] 16:31:10:734 Worker/(2285:2364): Archivo persistido en el Worker
+[INFO] 16:31:10:734 Worker/(2285:2364): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:31:11:229 Worker/(2285:2364): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:31:12:721 Worker/(2285:2372): Proceso nuevo creado
+[INFO] 16:31:12:733 Worker/(2285:2372): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:31:12:738 Worker/(2285:2372): Archivo recibido de Master
+[INFO] 16:31:12:742 Worker/(2285:2372): Archivo persistido en el Worker
+[INFO] 16:31:12:742 Worker/(2285:2372): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:31:13:254 Worker/(2285:2372): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:31:14:734 Worker/(2285:2380): Proceso nuevo creado
+[INFO] 16:31:14:749 Worker/(2285:2380): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:31:14:750 Worker/(2285:2380): Archivo recibido de Master
+[INFO] 16:31:14:755 Worker/(2285:2380): Archivo persistido en el Worker
+[INFO] 16:31:14:756 Worker/(2285:2380): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:31:15:262 Worker/(2285:2380): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:31:16:763 Worker/(2285:2388): Proceso nuevo creado
+[INFO] 16:31:16:781 Worker/(2285:2388): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:31:16:786 Worker/(2285:2388): Archivo recibido de Master
+[INFO] 16:31:16:798 Worker/(2285:2388): Archivo persistido en el Worker
+[INFO] 16:31:16:798 Worker/(2285:2388): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:31:17:322 Worker/(2285:2388): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:31:18:779 Worker/(2285:2396): Proceso nuevo creado
+[INFO] 16:31:18:797 Worker/(2285:2396): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:31:18:799 Worker/(2285:2396): Archivo recibido de Master
+[INFO] 16:31:18:816 Worker/(2285:2396): Archivo persistido en el Worker
+[INFO] 16:31:18:817 Worker/(2285:2396): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:31:19:327 Worker/(2285:2396): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:31:20:785 Worker/(2285:2404): Proceso nuevo creado
+[INFO] 16:31:20:806 Worker/(2285:2404): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:31:20:806 Worker/(2285:2404): Archivo recibido de Master
+[INFO] 16:31:20:809 Worker/(2285:2404): Archivo persistido en el Worker
+[INFO] 16:31:20:809 Worker/(2285:2404): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:31:21:310 Worker/(2285:2404): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+[INFO] 16:31:22:874 Worker/(2285:2412): Proceso nuevo creado
+[INFO] 16:31:22:899 Worker/(2285:2412): Inicio de recepción del Archivo Transformador de Master.
+[INFO] 16:31:22:900 Worker/(2285:2412): Archivo recibido de Master
+[INFO] 16:31:22:907 Worker/(2285:2412): Archivo persistido en el Worker
+[INFO] 16:31:22:909 Worker/(2285:2412): Inicio de recepción de la Transformacion de Master.
+[INFO] 16:31:23:407 Worker/(2285:2412): Envio de resultado de la Transformación a Master.
+Transformación finalizada de manera correcta
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                [INFO] 16:02:09:481 Worker/(2524:2524): Iniciando WORKER
+[INFO] 16:02:09:497 Worker/(2524:2524): Escuchando conexiones
